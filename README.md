@@ -36,12 +36,11 @@
 
 ## 기능
 
+<h4 align="center">Front-end 구상도</h4>
 <p align="center">
 <img width="914" alt="스크린샷 2020-09-04 오후 7 20 41" src="https://user-images.githubusercontent.com/49704910/92229001-c0ed8580-eee3-11ea-8212-0b86742a8baa.png">
   </p>
 
-<h5 align="center">Front-end 구상도</h5>
-  
 디스플레이상에서 현재 위치, 해당 위치에서 판매되는 추천 물품 리스트를 확인할 수 있다. 또한 특정 물건 검색 기능을 사용할 수 있다.
 &nbsp;
 &nbsp;
@@ -50,7 +49,7 @@
 위치 기반의 물품 추천 시스템
 수신되는 신호를 기반으로 현재 위치에서 판매하는 물품에 대해 추천해주는 시스템. 실내 측위를 위해 특정 위치마다 비콘 발신기를 설치한다. 한 위치를 특정하기 위한 비콘의 갯수는 최소 4개이다. 현재 위치에서 수신되는 신호를  기반으로 현재 위치를 특정한다. 
 
-[ 위치 특정 알고리즘 ]
+<h4 align="center"> [ 위치 특정 알고리즘 ] </h4> 
 
 <p align="center">
 <img width="278" alt="스크린샷 2020-08-28 오후 8 07 05" src="https://user-images.githubusercontent.com/49704910/91554468-254f9880-e96a-11ea-84c6-75215ab61499.png">
