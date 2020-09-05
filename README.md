@@ -17,7 +17,16 @@
 - 박민아 : background 디버깅, 비콘 코딩
 
 ## 프로젝트 목적 
+&nbsp;
 
+## 파일 리스트
+
+&nbsp;
+## 사용 보드
+* RPI4 : 비콘 신호 수신 및 위치계산, 상품정보... 
+* 아두이노 우노 
+&nbsp; - 비콘 업로드 
+&nbsp; - github.com/thebirds0324/sim_tact/blob/master/beacon_upload.ino
 
 
 ## 1. diagram (background~front)
@@ -55,31 +64,4 @@
 ## 3. 기존 기술과의 차별점(경쟁성)
 
 
-&nbsp;
 
-## 4. 시연영상
-
-
-
-## 2020 서울 하드웨어 해커톤 sim_tact 팀
-
-
-## 1. 팀원소개
-
-
-
-&nbsp;
-## 2. 프로젝트 제목
-Mynage
-
-&nbsp;
-## 3. 프로젝트 배경 및 목적
-본 프로젝트는 마트에서 언택트 형태의 판촉을 구현하고자 기획하였다. 가장 큰 특징은 현재 위치를 인식하여 해당 구간에서 판매하는 물건을 추천하여 보다 홍보효과를 높일 수 있다. 
-
-&nbsp;
-## 4. 파일 리스트
-
-&nbsp;
-## 5. 사용 보드
-* RPI4 : 비콘 신호 수신 및 위치계산, 상품정보... 
-* 아두이노 우노 : 비콘 업로드 (github.com/thebirds0324/sim_tact/blob/master/beacon_upload.ino)
