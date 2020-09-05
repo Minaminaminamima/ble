@@ -33,7 +33,8 @@
 * 아두이노 우노 : 비콘 업로드 (github.com/thebirds0324/sim_tact/blob/master/beacon_upload.ino)
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
 ## 기능
 
 <h4 align="center"> [ Front-end 구상도 ] </h4>
@@ -45,7 +46,6 @@
 &nbsp;
 &nbsp;
 
-* 기능
 위치 기반의 물품 추천 시스템
 수신되는 신호를 기반으로 현재 위치에서 판매하는 물품에 대해 추천해주는 시스템. 실내 측위를 위해 특정 위치마다 비콘 발신기를 설치한다. 한 위치를 특정하기 위한 비콘의 갯수는 최소 4개이다. 현재 위치에서 수신되는 신호를  기반으로 현재 위치를 특정한다. 
 
