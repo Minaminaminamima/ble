@@ -29,7 +29,7 @@
 &nbsp;
 &nbsp;
 ## 보드
-* RPI4 : 비콘 신호 수신 및 위치계산, 상품정보... 
+* RPI4 : BLE신호 수신 및 현재위치 계산. 상품정보 업로드 (github.com/~)
 * 아두이노 우노 : 비콘 업로드 (github.com/thebirds0324/sim_tact/blob/master/beacon_upload.ino)
 &nbsp;
 &nbsp;
