@@ -40,7 +40,8 @@
 <img width="914" alt="스크린샷 2020-09-04 오후 7 20 41" src="https://user-images.githubusercontent.com/49704910/92229001-c0ed8580-eee3-11ea-8212-0b86742a8baa.png">
   </p>
 
-<h1 align="center"><Front-end 구상도></h1>
+<h1 align="center">Front-end 구상도</h1>
+  
 디스플레이상에서 현재 위치, 해당 위치에서 판매되는 추천 물품 리스트를 확인할 수 있다. 또한 특정 물건 검색 기능을 사용할 수 있다.
 &nbsp;
 &nbsp;
